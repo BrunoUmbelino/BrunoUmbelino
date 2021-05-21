@@ -8,7 +8,7 @@ JavaScript | React | Redux | HTML | CSS | SASS | Bootstrap | Styled-Components |
 
 #### Portfólio 
 
-https://app.netlify.com/sites/bruno-umbelino/overview
+https://bruno-umbelino.netlify.app/
 
 #### Contato
 
