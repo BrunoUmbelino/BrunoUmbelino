@@ -4,7 +4,7 @@ Eu sou Desenvolvedor Front End e entusiasta de UI/UX, venho construindo aplicaç
 
 ##### Tecnologias  
 
-JavaScript | React | Redux | HTML | CSS | SASS | Bootstrap | Styled-Components | Node | Express | MongoDB
+JavaScript | React | Redux | HTML | CSS | SASS | Bootstrap | Styled-Components | Node | Express | MongoDB | React Native
 
 #### Portfólio 
 
