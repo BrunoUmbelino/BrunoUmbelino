@@ -1,6 +1,6 @@
 #### 👋 Olá tudo bem? 
 
-Eu sou Desenvolvedor Front End e entusiasta de UI/UX, venho construindo aplicações web responsivas e com atenção ao design. 
+Eu sou Desenvolvedor Front End e entusiasta de UI/UX, construo aplicações web responsivas e com atenção ao design. 
 
 ##### Tecnologias  
 
