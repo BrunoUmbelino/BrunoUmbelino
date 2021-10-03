@@ -1,6 +1,6 @@
 #### 👋 Olá tudo bem? 
 
-Eu sou Desenvolvedor Full Stack e entusiasta de UI/UX, construo aplicações web responsivas e com atenção ao design. 
+Eu sou Desenvolvedor Full-Stack e entusiasta de UI/UX, construo aplicações web responsivas e com atenção ao design. 
 
 ##### Tecnologias  
 
