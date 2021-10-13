@@ -4,7 +4,7 @@ Eu sou Desenvolvedor Full-Stack e entusiasta de UI/UX, construo aplicações web
 
 ##### Tecnologias  
 
-C# | ASP.NET | JavaScript | React | Redux | Bootstrap | Styled-Components | Node | Express | MongoDB | SQL Server | React Native
+C# | ASP.NET | SQL Server | JavaScript | React | Redux | Bootstrap | Styled-Components | Node | Express | MongoDB
 
 #### Portfólio 
 
