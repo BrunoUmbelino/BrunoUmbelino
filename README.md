@@ -1,10 +1,13 @@
 #### 👋 Olá tudo bem? 
 
-Eu sou Desenvolvedor Full-Stack e entusiasta de UI/UX, construo aplicações web responsivas e com atenção ao design. 
+Eu sou Desenvolvedor .Net, React e apreciador de UI/UX, construo aplicações web responsivas e com atenção ao design. 
 
 ##### Tecnologias  
 
-C# | ASP.NET | SQL Server | JavaScript | React | Redux | Bootstrap | Styled-Components | Node | Express | MongoDB
+.Net (C# e ASP.NET) | SQL Server </br>
+Node (Express) | MongoDB </br>
+JavaScript | React | Redux </br>
+Bootstrap | Styled-Components </br>
 
 #### Portfólio 
 
