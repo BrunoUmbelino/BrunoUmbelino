@@ -4,7 +4,7 @@ Eu sou Desenvolvedor .Net e React, também gosto de aprender sobre de UI/UX e co
 
 ##### Tecnologias  
 
-.Net (C# e ASP.NET) | SQL Server </br>
+.Net (C#, ASP.NET e WebAPI) | SQL Server </br>
 Node (Express) | MongoDB </br>
 JavaScript | React | Redux </br>
 Bootstrap | Styled-Components </br>
