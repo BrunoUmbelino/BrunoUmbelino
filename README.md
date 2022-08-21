@@ -1,6 +1,6 @@
 #### 👋 Olá tudo bem? 
 
-Eu sou Desenvolvedor .Net, React e apreciador de UI/UX, construo aplicações web responsivas e com atenção ao design. 
+Eu sou Desenvolvedor .Net e React, também gosto de aprender sobre de UI/UX e construo aplicações web responsivas com atenção ao design. 
 
 ##### Tecnologias  
 
