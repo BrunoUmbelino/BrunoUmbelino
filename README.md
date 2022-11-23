@@ -11,7 +11,7 @@ Meu nome é Bruno e eu possuo aproximadamente 1 ano e meio de experiência como 
 • Gerenciamento de código com Git  <br>
 • Entrega e integração contínua
 
-##### Possuo conhecimentos em  
+##### Possuo conhecimentos em:
 
 • Serviços Azure DevOps  <br>
 • Node.js  <br>
