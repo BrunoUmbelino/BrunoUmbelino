@@ -4,7 +4,7 @@ Meu nome é Bruno e eu possuo aproximadamente 1 ano e meio de experiência como 
 
 #### Tenho experiência com:
 
-• Desenvolvimento Full Stack com as tecnologias .NET WEB API / .NET MVC / SQL Server / React <br>
+• Desenvolvimento Full Stack com as tecnologias .NET WEB API / .NET MVC / SQL Server / React (TypeScript, JavaScript, HTML, CSS) <br>
 • Desenvolvimento de testes back-end e front-end com NUnit / Selenium / Jest / React-testing-library <br>
 • Desenvolvimento Ágil com Scrum/Kambam  <br>
 • Comunicação ativa e alinhamento de expectativas com o cliente  <br>
