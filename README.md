@@ -4,20 +4,20 @@ Meu nome é Bruno e eu possuo aproximadamente 1 ano e meio de experiência como 
 
 ##### Tenho experiência com:
 
-• Desenvolvimento Full Stack com as tecnologias .NET WEB API / .NET MVC / SQL Server / React 
-• Desenvolvimento de testes back-end e front-end com NUnit / Selenium / Jest / React-testing-library
-• Desenvolvimento Ágil com Scrum/Kambam
-• Comunicação ativa e alinhamento de expectativas com o cliente 
-• Gerenciamento de código com Git 
+• Desenvolvimento Full Stack com as tecnologias .NET WEB API / .NET MVC / SQL Server / React <br>
+• Desenvolvimento de testes back-end e front-end com NUnit / Selenium / Jest / React-testing-library <br>
+• Desenvolvimento Ágil com Scrum/Kambam  <br>
+• Comunicação ativa e alinhamento de expectativas com o cliente  <br>
+• Gerenciamento de código com Git  <br>
 • Entrega e integração contínua
 
 ##### Possuo conhecimentos em  
 
-• Serviços Azure DevOps
-• Node.js
+• Serviços Azure DevOps  <br>
+• Node.js  <br>
 • UI Design
 
-#### Portfólio (apenas projetos front-end no momento) 
+#### Portfólio
 
 https://bruno-umbelino.netlify.app/
 
