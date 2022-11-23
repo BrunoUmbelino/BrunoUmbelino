@@ -1,15 +1,23 @@
 #### 👋 Olá tudo bem? 
 
-Eu sou Desenvolvedor .Net e React, também gosto de aprender sobre de UI/UX e construo aplicações web responsivas com atenção ao design. 
+Meu nome é Bruno e eu possuo aproximadamente 1 ano e meio de experiência como Desenvolvedor Full Stack .Net/React.
 
-##### Tecnologias  
+##### Tenho experiência com:
 
-.NET Core ( C# | ASP.NET | WebAPI ) / SQL Server </br>
-Node ( Express ) / MongoDB </br>
-JavaScript / TypeScript / React / Redux </br>
-Bootstrap / Styled-Components </br>
+• Desenvolvimento Full Stack com as tecnologias .NET WEB API / .NET MVC / SQL Server / React 
+• Desenvolvimento de testes back-end e front-end com NUnit / Selenium / Jest / React-testing-library
+• Desenvolvimento Ágil com Scrum/Kambam
+• Comunicação ativa e alinhamento de expectativas com o cliente 
+• Gerenciamento de código com Git 
+• Entrega e integração contínua
 
-#### Portfólio 
+##### Possuo conhecimentos em  
+
+• Serviços Azure DevOps
+• Node.js
+• UI Design
+
+#### Portfólio (apenas projetos front-end no momento) 
 
 https://bruno-umbelino.netlify.app/
 
