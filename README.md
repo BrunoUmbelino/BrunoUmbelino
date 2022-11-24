@@ -1,6 +1,6 @@
 #### 👋 Olá, tudo bem? 
 
-Meu nome é Bruno e eu possuo aproximadamente 1 ano e meio de experiência como Desenvolvedor Full Stack .Net/React.
+Meu nome é Bruno e eu possuo experiência como Desenvolvedor Full Stack .Net/React.
 
 #### Tenho experiência com:
 
