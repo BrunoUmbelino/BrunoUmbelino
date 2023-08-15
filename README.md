@@ -22,10 +22,6 @@ Meu nome é Bruno e eu atuo como Desenvolvedor Full Stack .Net/React.
 •	Linux e Docker <br>
 •	Angular <br>
 
-#### Portfólio
-
-https://bruno-umbelino.netlify.app/
-
 #### Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmelodev/)](https://www.linkedin.com/in/brunoumbelino/)
