@@ -20,7 +20,6 @@ Meu nome é Bruno e eu atuo como Desenvolvedor Full Stack .Net/React.
 •	Code Review <br>
 •	Entity Framework e Dapper <br>
 •	Linux e Docker <br>
-•	Angular <br>
 
 #### Contato
 
