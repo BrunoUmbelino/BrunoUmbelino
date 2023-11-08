@@ -1,23 +1,22 @@
 #### 👋 Olá, tudo bem? 
 
-Meu nome é Bruno e eu atuo como Desenvolvedor Full Stack .Net/React.
+Meu nome é Bruno e eu atuo como Desenvolvedor Full Stack .Net e React.
 
 #### Tenho experiência com:
 
-• Desenvolvimento Backend com C# .NET (MVC e WebApi) / SQL Server / Storage Procedure <br>
-• Fronted com ASP.NET Web Pages / JavaScript / Jquery / Boostratp <br>
-&nbsp;&nbsp;React (TypeScript, JavaScript, HTML, CSS) <br>
+• Backend com C# .NET MVC e WebApi / SQL Server / Storage Procedures <br>
+• Fronted com ASP.NET Razor Pages / JavaScript / Jquery / Boostratp <br>
+• SPA com React / TypeScript / HTML / CSS) <br>
 • Testes automatizados com NUnit / Selenium / Jest / React-testing-library <br>
-• Metodologia Ágil com Scrum/Kambam  <br>
+• Metodologias Ágeis com Scrum / Kambam  <br>
 • Comunicação ativa e alinhamento de expectativas com o cliente  <br>
 • Gerenciamento de código com Git  <br>
-• Entrega e integração contínua
 
 #### Possuo conhecimentos em:
 
+• Entrega e integração contínua
 •	DDD / BDD / TDD <br>
 •	SOLID e Design Patterns <br>
-•	Code Review <br>
 •	Entity Framework e Dapper <br>
 •	Linux e Docker <br>
 
