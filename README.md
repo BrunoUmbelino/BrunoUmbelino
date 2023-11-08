@@ -14,7 +14,7 @@ Meu nome é Bruno e eu atuo como Desenvolvedor Full Stack .Net e React.
 
 #### Possuo conhecimentos em:
 
-• Entrega e integração contínua
+• CI / CD <br>
 •	DDD / BDD / TDD <br>
 •	SOLID e Design Patterns <br>
 •	Entity Framework e Dapper <br>
